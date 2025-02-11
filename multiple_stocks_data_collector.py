@@ -1,10 +1,4 @@
- """
-multiple_stocks_data_collector.py
 
-This script fetches detailed stock data for multiple symbols using the Alpha Vantage API.
-It collects metrics such as open, high, low, price, volume, and more for each stock and
-writes the data along with a timestamp to a CSV file.
-"""
 
 import os
 import csv
